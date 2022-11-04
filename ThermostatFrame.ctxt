@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=ThermostatFrame
+comment1.params=
+comment1.target=ThermostatFrame()
+comment2.params=
+comment2.target=void\ up()
+comment3.params=
+comment3.target=void\ down()
+comment4.params=
+comment4.target=void\ exit()
+numComments=5
